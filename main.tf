@@ -12,7 +12,7 @@ terraform {
   required_version = ">= 1.1.0"
 
   cloud {
-    organization = "pdihaxs"
+    organization = "PDihax"
 
     workspaces {
       name = "gh-actions-demo"
